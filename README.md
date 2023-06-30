@@ -25,17 +25,3 @@ Note: Both of the commands above still need to be ran.
 When disabling: http://mrpl.me/P31047b_rfs8.png
 
 When enabling: http://mrpl.me/l21048b_rff8.png
-
-# Downloads
-
-Download: https://github.com/MrPleasant-exe/Destiny-2-Solo-lobby/releases
-
-Special thanks to various Reddit users for the specific ports etc
-
-
-<img src="https://img.shields.io/github/downloads/MrPleasant-exe/Destiny-2-Solo-lobby/total?style=social" alt="Downloads"/><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMrPleasant-exe%2FDestiny-2-Solo-lobby
-" alt="Twitter"/>
-
-<img src="https://img.shields.io/github/last-commit/MrPleasant-exe/Destiny-2-Solo-lobby/master" alt="Commit"/>
-
-
