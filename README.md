@@ -7,11 +7,12 @@ So you can do bounties etc alone and not with pesky people :)
 
 ## Running The Script
 
-Before trying to run the script you must allow Windows Powershell to run .ps1 files, this can be done by oppening Powershell as admin and typing the following. [(Download here)](https://github.com/MrPleasant-exe/Destiny-2-Solo-lobby/releases).
+Before trying to run the script you must allow Windows Powershell to run .ps1 files; Open PowerShell as Administrator and run the following commands to allow unsigned scripts to be executed:
 
-> set-executionpolicy remotesigned
-
-> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass (might be needed)
+```
+set-executionpolicy remotesigned
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
 
 If prompted, enter `A` for `Yes to All` into the Powershell command line prompt.
 
