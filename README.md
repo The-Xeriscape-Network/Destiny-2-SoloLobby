@@ -1,4 +1,4 @@
-# Destiny 2 matchmaking disable
+# Destiny 2 Solo Lobby Script
 A script that allows you to disable matchmaking in Destiny 2, all this script does is adds firewall rules when first ran and if rules are already in place (second run) it will disable them and re enable match making. There are now two versions of this, one is a powershell script and one is an exe with two buttons, both you can see how to use below.
 
 ## Why use this? 
