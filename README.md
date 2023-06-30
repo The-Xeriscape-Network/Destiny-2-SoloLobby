@@ -13,7 +13,7 @@ Before trying to run the script you must allow Windows Powershell to run .ps1 fi
 
 > Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass (might be needed)
 
-If prompted, enter "A" for `Yes to All`.
+If prompted, enter `A` for `Yes to All` into the Powershell command line prompt.
 
 ![howto](http://mrpl.me/pc1046b_rfx3.gif)
 
