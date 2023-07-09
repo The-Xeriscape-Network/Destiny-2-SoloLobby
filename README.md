@@ -19,9 +19,3 @@ If prompted, enter `A` for `Yes to All` into the Powershell command line prompt.
 ![howto](http://mrpl.me/pc1046b_rfx3.gif)
 
 Once you have done that, right click the script > open with > windows powershell, don't worry if its blank, sometimes text wont load, if this is the case press any key. (if it closes this is also ok)
-
-Note: Both of the commands above still need to be ran.
-
-When disabling: http://mrpl.me/P31047b_rfs8.png
-
-When enabling: http://mrpl.me/l21048b_rff8.png
